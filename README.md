@@ -1,3 +1,4 @@
+<a name="readme-top"></a>
 # Hanoi Tower
  Welcome to the Tower of Hanoi Project.This repository contains a simple implementation of the classic Tower of Hanoi puzzle in JavaScript.
 
@@ -15,3 +16,8 @@ To get started please follow the following steps,
 
 ## Image
 <img src="https://github.com/bhavyac18/Hanoi-Tower/assets/53191128/a1d62592-9044-4583-b89a-fd09657d54e7" width="700px">
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Roadmap
+- [ ] Develop a game that offers users the opportunity to engage and make choices for their next moves.
