@@ -14,5 +14,4 @@ To get started please follow the following steps,
 </ol>
 
 ## Image
-
-![hanoi-tower](https://github.com/bhavyac18/Hanoi-Tower/assets/53191128/a1d62592-9044-4583-b89a-fd09657d54e7)
+<img src="https://github.com/bhavyac18/Hanoi-Tower/assets/53191128/a1d62592-9044-4583-b89a-fd09657d54e7" width="700px">
